@@ -1,5 +1,5 @@
 #!/bin/bash
-x=1
+x=2
 while [ $x -le 100000 ]
 do
   echo "Welcome $x times"
